@@ -1,0 +1,50 @@
+.api-details-page {
+    padding: 20px;
+    margin-left: 70px; /* Adjusted for sidebar */
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    box-sizing: border-box;
+    background-color: #3f5f7a;
+  }
+
+  
+body {
+    background-color: #3f5f7a;
+  }
+  p, .api-details-page-contract{
+    color: white;
+  }
+  .api-details-page h2,
+  .api-details-page h3,
+  .api-details-page h4 {
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  .api-details-page p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .api-details-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .api-details-page li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .api-details-page-heading{
+    text-align: center;
+  }
+  .explore_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5em;
+  }
